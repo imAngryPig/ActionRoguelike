@@ -1,0 +1,21 @@
+{
+    "configurations": [
+        {
+            "name": "ActionRoguelikeEditor Editor Win64 Development (ActionRoguelike)",
+            "compilerPath": "D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike.json"
+        },
+        {
+            "name": "Win32",
+            "compilerPath": "D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+            "cStandard": "c17",
+            "cppStandard": "c++20",
+            "intelliSenseMode": "msvc-x64",
+            "compileCommands": "F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_Default.json"
+        }
+    ],
+    "version": 4
+}

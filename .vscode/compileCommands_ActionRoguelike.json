@@ -1,0 +1,122 @@
+[
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\ActionRoguelike.Build.cs",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\ActionRoguelike.cpp",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\ActionRoguelike.h",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\Private\\SCharacter.cpp",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\Private\\SExplosiveBarrel.cpp",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\Private\\SGamePlayInterface.cpp",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\Private\\SInteractionComponent.cpp",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\Private\\SItemChest.cpp",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\Private\\SMagicProjectile.cpp",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\Public\\SCharacter.h",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\Public\\SExplosiveBarrel.h",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\Public\\SGamePlayInterface.h",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\Public\\SInteractionComponent.h",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\Public\\SItemChest.h",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	},
+	{
+		"file": "F:\\shh\\Github\\ActionRoguelike\\Source\\ActionRoguelike\\Public\\SMagicProjectile.h",
+		"arguments": [
+			"D:\\codeSoftware\\vs2022_Enterprise\\vs2022_enter\\VC\\Tools\\MSVC\\14.36.32532\\bin\\Hostx64\\x64\\cl.exe",
+			"@F:\\shh\\Github\\ActionRoguelike\\.vscode\\compileCommands_ActionRoguelike\\ActionRoguelike.1.rsp"
+		],
+		"directory": "F:\\shh\\UnrealEngine\\UE_5.3\\Engine\\Source"
+	}
+]
